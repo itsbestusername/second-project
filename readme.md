@@ -1,1 +1,1 @@
-https://github.com/itsbestusername/second-project
+# Слайдер картинок
